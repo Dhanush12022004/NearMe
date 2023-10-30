@@ -25,6 +25,7 @@ Execute the programs and publish them.
 ## CODE
 
 index.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -45,8 +46,10 @@ shape="rect">
     </map>
 </body>
 </html>
+```
 
 central.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -75,8 +78,10 @@ central.html:
 
 </body>
 </html>
+```
 
 egmore.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -105,8 +110,9 @@ egmore.html:
 
 </body>
 </html>
-
+```
 fort.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -135,8 +141,9 @@ fort.html:
 
 </body>
 </html>
-
+```
 hospital.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -165,8 +172,9 @@ hospital.html:
 
 </body>
 </html>
-
+```
 hospital.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -195,8 +203,10 @@ hospital.html:
 
 </body>
 </html>
+```
 
 port.html:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -225,7 +235,7 @@ port.html:
 
 </body>
 </html>
-
+```
 ## OUTPUT
 ![Alt text](sample/Nearmeimg1.png)
 
