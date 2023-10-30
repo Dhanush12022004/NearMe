@@ -250,17 +250,7 @@ port.html:
 ![Nearmeimg6](https://github.com/Dhanush12022004/NearMe/assets/128135558/540bc0dc-043a-4a5c-8674-eaae563cfa33)
 
 
-![Alt text](sample/Nearmeimg1.png)
 
-![Alt text](sample/Nearmeimg2.png)
-
-![Alt text](sample/Nearmeimg3.png)
-
-![Alt text](sample/Nearmeimg4.png)
-
-![Alt text](sample/Nearmeimg5.png)
-
-![Alt text](sample/Nearmeimg6.png)
 
 
 ## RESULT
