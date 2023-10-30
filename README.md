@@ -249,7 +249,9 @@ port.html:
 
 ![Nearmeimg6](https://github.com/Dhanush12022004/NearMe/assets/128135558/540bc0dc-043a-4a5c-8674-eaae563cfa33)
 
+![image](https://github.com/Dhanush12022004/NearMe/assets/128135558/e9175d4b-417a-40b3-8b2e-115973ae224c)
 
+![image](https://github.com/Dhanush12022004/NearMe/assets/128135558/33dc64eb-b3a7-4e4d-9778-7992db36c8c5)
 
 
 
