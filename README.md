@@ -237,6 +237,19 @@ port.html:
 </html>
 ```
 ## OUTPUT
+![Nearmeimg1](https://github.com/Dhanush12022004/NearMe/assets/128135558/0cfb643e-16af-46d9-941c-e0bdc3d8b571)
+
+![Nearmeimg2](https://github.com/Dhanush12022004/NearMe/assets/128135558/a53ab542-bc65-403f-93e3-e7d05890d208)
+
+![Nearmeimg3](https://github.com/Dhanush12022004/NearMe/assets/128135558/9fb8bbe7-1dbb-4574-bea8-355c8a78149f)
+
+![Nearmeimg4](https://github.com/Dhanush12022004/NearMe/assets/128135558/d0f63270-4a6d-466b-81c0-e5ae97f9faa3)
+
+![Nearmeimg5](https://github.com/Dhanush12022004/NearMe/assets/128135558/a83aa09a-aa88-413f-a214-59bc99279b0c)
+
+![Nearmeimg6](https://github.com/Dhanush12022004/NearMe/assets/128135558/540bc0dc-043a-4a5c-8674-eaae563cfa33)
+
+
 ![Alt text](sample/Nearmeimg1.png)
 
 ![Alt text](sample/Nearmeimg2.png)
